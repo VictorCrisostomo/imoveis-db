@@ -1,0 +1,540 @@
+{
+  "casas": [
+    {
+      "id": 3,
+      "codigo": "ei03",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Centro",                                                                                                 
+      "endereço": "Av. Otávio Mangabeira",
+      "numero": "791",
+      "terreno": "240,00",
+      "construcao": "192,02",
+      "dormitorios": "3",
+      "vagas": "1",
+      "valor": "409.000,00",
+      "descricao": "Na parte térrea: uma área para ponto comercial/ garagem ou outro investimento. Na parte superior: Varanda, 02 salas, 01 suíte, closet, 01 banheiro social, cozinha, área de serviço.",
+      "url": {
+        "videoLink": "",
+        "whatsappLink": "",
+        "compartilhar":""
+      },
+      "images": {
+        "01": "/ei03/c01.jpg",
+        "02": "/ei03/c02.jpg",
+        "03": "/ei03/c03.jpg",
+        "04": "/ei03/c04.jpg",
+        "05": "/ei03/c05.jpg",
+        "06": "/ei03/c06.jpg",
+        "07": "/ei03/c07.jpg",
+        "08": "/ei03/c08.jpg",
+        "09": "/ei03/c09.jpg",
+        "10": "/ei03/c10.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "codigo": "ei12",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Ilha de Atalaia",                                                                                                 
+      "endereço": "Tv. Ilha Náutica",
+      "numero": "S/N",
+      "terreno": "300,00",
+      "construcao": "120,00",
+      "dormitorios": "2",
+      "vagas": "1",
+      "valor": "280.000,00",
+      "descricao": "Ilha Náutica, região da Atalaia Sul DETALHES: Piscina, garagem, varanda, 01 quarto, 01 suíte, sala ampla, banheiro social, cozinha e área de serviço.",
+      "url": {
+        "videoLink": "https://www.youtube.com/embed/bH5Khy_gfSk?si=-jAE8CxOy8OCBTAg",
+        "whatsappLink": "",
+        "compartilhar":""
+      },
+      "images": {
+        "01": "/ei12/c01.jpg",
+        "02": "/ei12/c02.jpg",
+        "03": "/ei12/c03.jpg",
+        "04": "/ei12/c04.jpg",
+        "05": "/ei12/c05.jpg",
+        "06": "/ei12/c06.jpg",
+        "07": "/ei12/c07.jpg",
+        "08": "/ei12/c08.jpg",
+        "09": "/ei12/c09.jpg",
+        "10": "/ei12/c10.jpg"
+      }
+    },
+    {
+      "id": 20,
+      "codigo": "ei20",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Praia da Costa",                                                                                                 
+      "endereço": "Rua dos Anus",
+      "numero": "250",
+      "terreno": "600,00",
+      "construcao": "220,00",
+      "dormitorios": "2",
+      "vagas": "2",
+      "valor": "280.000,00",
+      "descricao": "02suítes, 02 quarto, 01 banheiro social, 01 área gourmet, quintal, varanda, garagem, jardim, 02 salas e cozinha. 1 churrasqueira , 1 fogão a lenha",
+      "url": {
+        "videoLink": "",
+        "whatsappLink": "",
+        "compartilhar":""
+      },
+      "images": {
+        "01": "/ei20/c01.jpg",
+        "02": "/ei20/c02.jpg",
+        "03": "/ei20/c03.jpg",
+        "04": "/ei20/c04.jpg",
+        "05": "/ei20/c05.jpg",
+        "06": "/ei20/c06.jpg",
+        "07": "/ei20/c07.jpg",
+        "08": "/ei20/c08.jpg",
+        "09": "/ei20/c09.jpg",
+        "10": "/ei20/c10.jpg"
+      }
+    },
+    {
+      "id": 26,
+      "codigo": "ei26",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Ilha de Atalaia",                                                                                                 
+      "endereço": "Av. Tucunaré",
+      "numero": "1350",
+      "terreno": "3.400,00",
+      "construcao": "415,00",
+      "dormitorios": "4",
+      "vagas": "3",
+      "valor": "690.000,00",
+      "descricao": "Casa com garagem para 02 carros, salão de jogos, cozinha arejada, área goumert, hall de entrada arquitetônico, 04 quartos, 01 suíte, cozinha, piscina, lavanderia, varanda interna, varanda externa, depósito e jardins.",
+      "url": {
+        "videoLink": "https://www.youtube.com/embed/iJ16LGJOewQ?si=5ZRPl-RcBYyoguDm",
+        "whatsappLink": "",
+        "compartilhar":""
+      },
+      "images": {
+        "01": "/ei26/c01.jpg",
+        "02": "/ei26/c02.jpg",
+        "03": "/ei26/c03.jpg",
+        "04": "/ei26/c04.jpg",
+        "05": "/ei26/c05.jpg",
+        "06": "/ei26/c06.jpg",
+        "07": "/ei26/c07.jpg",
+        "08": "/ei26/c08.jpg",
+        "09": "/ei26/c09.jpg"
+      }
+    },
+    {
+      "id": 34,
+      "codigo": "ei34",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Centro",                                                                                                 
+      "endereço": "Av. Ilhéus",
+      "numero": "270",
+      "terreno": "217,00",
+      "construcao": "180,00",
+      "dormitorios": "2",
+      "vagas": "1",
+      "valor": "470.000,00",
+      "descricao": "2 suítes amplas, 2 salas, cozinha, area de serviço, garagem.",
+      "url": {
+        "videoLink": "",
+        "whatsappLink": "",
+        "compartilhar":""
+      },
+      "images": {
+        "01": "/ei34/c01.jpg",
+        "02": "/ei34/c02.jpg",
+        "03": "/ei34/c03.jpg",
+        "04": "/ei34/c04.jpg",
+        "05": "/ei34/c05.jpg",
+        "06": "/ei34/c06.jpg",
+        "07": "/ei34/c07.jpg",
+        "08": "/ei34/c08.jpg",
+        "09": "/ei34/c09.jpg",
+        "10": "/ei34/c10.jpg"
+      }
+    },
+    {
+      "id": 35,
+      "codigo": "ei35",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Centro",                                                                                                 
+      "endereço": "Rua Barão de Cotegipe",
+      "numero": "528",
+      "terreno": "171,00",
+      "construcao": "84,00",
+      "dormitorios": "2",
+      "vagas": "2",
+      "valor": "320.000,00",
+      "descricao": "Casa com jardim, garagem, sala, cozinha, área de serviço, área gourmet, 02 quartos sendo 01 suíte, escritório, 02 banheiros sociais",
+      "url": {
+        "videoLink": "https://www.youtube.com/embed/3-3EoXCtd7A?si=2zktz70l3kNIIkLu",
+        "whatsappLink": "",
+        "compartilhar":""
+      },
+      "images": {
+        "01": "/ei35/c01.jpg",
+        "02": "/ei35/c02.jpg",
+        "03": "/ei35/c03.jpg",
+        "04": "/ei35/c04.jpg",
+        "05": "/ei35/c05.jpg",
+        "06": "/ei35/c06.jpg",
+        "07": "/ei35/c07.jpg",
+        "08": "/ei35/c08.jpg",
+        "09": "/ei35/c09.jpg",
+        "10": "/ei35/c10.jpg"
+      }
+    },
+      {
+        "id": 36,
+        "codigo": "ei36",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Centro",                                                                                                 
+        "endereço": "Av. Otávio Mangabeira",
+        "numero": "1257",
+        "terreno": "611,22",
+        "construcao": "185,90",
+        "dormitorios": "3",
+        "vagas": "2",
+        "valor": "380.000,00",
+        "descricao": "2 varandas, 01 sala, 03 suítes, 01 cozinha, 01 área de serviço, 01 banheiro social, 01 dependência de empregada com banheiro, quintal, garagem.",
+        "url": {
+          "videoLink": "https://www.youtube.com/embed/aWk8sUA3y_I?si=H29nH0dz6otcp-6w",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei36/c01.jpg",
+          "02": "/ei36/c02.jpg",
+          "03": "/ei36/c03.jpg",
+          "04": "/ei36/c04.jpg",
+          "05": "/ei36/c05.jpg",
+          "06": "/ei36/c06.jpg",
+          "07": "/ei36/c07.jpg",
+          "08": "/ei36/c08.jpg",
+          "09": "/ei36/c09.jpg",
+          "10": "/ei36/c10.jpg"
+        }
+      },
+      {
+        "id": 47,
+        "codigo": "ei47",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Birindiba",                                                                                                 
+        "endereço": "Rua Edmundo Lopes de Castro",
+        "numero": "367",
+        "terreno": "235,90",
+        "construcao": "129,42",
+        "dormitorios": "3",
+        "vagas": "2",
+        "valor": "350.000,00",
+        "descricao": "Imóvel residencial com a seguinte conformação 10,70m de frente por 10,60m de fundo por 22,30m de um lado e 22,00m do outro lado, perfazendo uma área total de 235,90m² tendo uma área construída de 129,42m² com a seguinte descrição: 02 salas, 01 suíte, 02 quartos, 01 sanitario, 01 cozinha, 01 garagem",
+        "url": {
+          "videoLink": "",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei43/IMG_9889-min.JPG",
+          "02": "/ei43/IMG_9890-min.JPG",
+          "03": "/ei43/IMG_9884-min.JPG",
+          "04": "/ei43/IMG_9882-min.JPG",
+          "05": "/ei43/IMG_9880-min.JPG",
+          "06": "/ei43/IMG_9881-min.JPG",
+          "07": "/ei43/IMG_9876-min.JPG",
+          "08": "/ei43/IMG_9878-min.JPG",
+          "09": "/ei43/IMG_9874-min.JPG",
+          "10": "/ei43/IMG_9872-min.JPG",
+          "11": "/ei43/IMG_9869-min.JPG",
+          "12": "/ei43/IMG_9868-min.JPG",
+          "13": "/ei43/IMG_9867-min.JPG",
+          "14": "/ei43/IMG_9866-min.JPG"
+        }
+      },
+      {
+        "id": 48,
+        "codigo": "ei48",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Tancredão",                                                                                                 
+        "endereço": "Rua Fidelina Barreto",
+        "numero": "142",
+        "terreno": "203,20",
+        "construcao": "97,11",
+        "dormitorios": "2",
+        "vagas": "1",
+        "valor": "198.000,00",
+        "descricao": "Área para ponto comercial já incluso banheiro social, garagem, 02 quartos, 01 cozinha, 02 banheiros, cozinha, área de serviço, lavanderia interna e quintal.",
+        "url": {
+          "videoLink": "",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei48/c01.jpg",
+          "02": "/ei48/c02.jpg",
+          "03": "/ei48/c03.jpg",
+          "04": "/ei48/c04.jpg",
+          "05": "/ei48/c05.jpg",
+          "06": "/ei48/c06.jpg",
+          "07": "/ei48/c07.jpg",
+          "08": "/ei48/c08.jpg",
+          "09": "/ei48/c09.jpg"
+        }
+      },
+      {
+        "id": 50,
+        "codigo": "ei50",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Sócrates Rezende",                                                                                                 
+        "endereço": "Av. Helena Chaves",
+        "numero": "166",
+        "terreno": "394,00",
+        "construcao": "144,00",
+        "dormitorios": "3",
+        "vagas": "3",
+        "valor": "300.000,00",
+        "descricao": "3 quartos, 3 banheiros, 1 sala, cozinha, copa, área de serviço, quintal e laje com algumas colunas em alvenaria pronta para construir outro imovel, garagem coberta e portão eletrônico.",
+        "url": {
+          "videoLink": "https://www.youtube.com/embed/wSQy_DgUhKI?si=_uzODBAO8p60BFdr",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei50/c02.jpg",
+          "02": "/ei50/c01.jpg",
+          "03": "/ei50/c03.jpg",
+          "04": "/ei50/c04.jpg",
+          "05": "/ei50/c05.jpg",
+          "06": "/ei50/c06.jpg"
+        }
+      },
+      {
+        "id": 51,
+        "codigo": "ei51",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Centro",                                                                                                 
+        "endereço": "Av. Cel. Augusto L. de Carvalho",
+        "numero": "439",
+        "terreno": "1.161,80",
+        "construcao": "394,77",
+        "dormitorios": "7",
+        "vagas": "3",
+        "valor": "2.000.000,00",
+        "descricao": "Garagem, escritório, Sala de Jantar, Cozinha despensa, 7 suítes, 9 banheiros, área de serviço escritório, área gourmet com churrasqueira, cook top, ar-condicionado e banheiro.",
+        "url": {
+          "videoLink": "https://www.youtube.com/embed/0Z434xbIubo?si=SZercvuj5mWa0ciq",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei51/c01.jpg",
+          "02": "/ei51/c02.jpg",
+          "03": "/ei51/c03.jpg",
+          "04": "/ei51/c04.jpg",
+          "05": "/ei51/c05.jpg",
+          "06": "/ei51/c06.jpg",
+          "07": "/ei51/c07.jpg",
+          "08": "/ei51/c08.jpg",
+          "09": "/ei51/c09.jpg"
+        }
+      },
+      {
+        "id": 53,
+        "codigo": "ei53",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Centro",                                                                                                 
+        "endereço": "Rua General Pederneiras",
+        "numero": "229",
+        "terreno": "542,88",
+        "construcao": "359,10",
+        "dormitorios": "4",
+        "vagas": "3",
+        "valor": "1.800.000,00",
+        "descricao": "Jardins, área de convivência, piscina, área gourmet com churrasqueira, hall de entrada, varanda, sala ampla, sala de jantar, cozinha, 03 quartos, banheiro social, mezanino com suíte e closet, lavanderia.",
+        "url": {
+          "videoLink": "",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei53/c01.jpg",
+          "02": "/ei53/c02.jpg",
+          "03": "/ei53/c03.jpg",
+          "04": "/ei53/c04.jpg",
+          "05": "/ei53/c05.jpg",
+          "06": "/ei53/c06.jpg",
+          "07": "/ei53/c07.jpg",
+          "08": "/ei53/c08.jpg",
+          "09": "/ei53/c09.jpg",
+          "10": "/ei53/c10.jpg"
+        }
+      },
+      {
+        "id": 54,
+        "codigo": "ei54",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Ilha de Atalaia",                                                                                                 
+        "endereço": "Rua das Lagostas",
+        "numero": "51",
+        "terreno": "1.011,12",
+        "construcao": "212,75",
+        "dormitorios": "3",
+        "vagas": "4",
+        "valor": "400.000,00",
+        "descricao": "Jardim, piscina, área toda murada, área de lazer, telhado colonial, portas e janelas de madeira de lei, sala, cozinha conjugada, 02 suítes, área de serviço e área externa com espaço para expansão.",
+        "url": {
+          "videoLink": "",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei54/c01.jpg",
+          "02": "/ei54/c02.jpg",
+          "03": "/ei54/c03.jpg",
+          "04": "/ei54/c04.jpg",
+          "05": "/ei54/c05.jpg",
+          "06": "/ei54/c06.jpg",
+          "07": "/ei54/c07.jpg",
+          "08": "/ei54/c08.jpg"
+        }
+      },
+      {
+        "id": 76,
+        "codigo": "ei76",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Cidade Nova",                                                                                                 
+        "endereço": "Rua Mário Ramos",
+        "numero": "360",
+        "terreno": "134,14",
+        "construcao": "85,88",
+        "dormitorios": "3",
+        "vagas": "2",
+        "valor": "290.000,00",
+        "descricao": "Recém construída, possui sala, cozinha com mobiliário em mármore, 03 quartos sendo 01 suíte, garagem, área de serviço e 01 banheiro social.",
+        "url": {
+          "videoLink": "",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei76/c01.jpg",
+          "02": "/ei76/c02.jpg",
+          "03": "/ei76/c03.jpg",
+          "04": "/ei76/c04.jpg",
+          "05": "/ei76/c05.jpg",
+          "06": "/ei76/c06.jpg",
+          "07": "/ei76/c07.jpg",
+          "08": "/ei76/c08.jpg"
+        }
+      },
+      {
+        "id": 77,
+        "codigo": "ei77",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Centro",                                                                                                 
+        "endereço": "Praça 25 de maio",
+        "numero": "32",
+        "terreno": "138,00",
+        "construcao": "135,00",
+        "dormitorios": "3",
+        "vagas": "2",
+        "valor": "630.000,00",
+        "descricao": "Garagem, área gourmet, sala, cozinha, área de serviço, lavanderia, 03 suítes amplas , sala e varanda.",
+        "url": {
+          "videoLink": "",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei77/c01.jpg",
+          "02": "/ei77/c02.jpg",
+          "03": "/ei77/c03.jpg",
+          "04": "/ei77/c04.jpg",
+          "05": "/ei77/c05.jpg",
+          "06": "/ei77/c06.jpg",
+          "07": "/ei77/c07.jpg",
+          "08": "/ei77/c08.jpg",
+          "09": "/ei77/c09.jpg"
+        }
+      },
+      {
+        "id": 78,
+        "codigo": "ei78",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Tancredão",                                                                                                 
+        "endereço": "Rua Fidelina Barreto",
+        "numero": "350",
+        "terreno": "330,00",
+        "construcao": "250,00",
+        "dormitorios": "3",
+        "vagas": "2",
+        "valor": "525.000,00",
+        "descricao": "Sala de estar, sala de jantar com mesa de 8 lugares , cozinha, 1 banheiro social, 3 quartos sendo 1 quarto com escritório e 1 suíte com guarda roupa de casal, rack , TV e criado mudo, lavanderia, quiosque com jardim, garagem para até 4 carros.",
+        "url": {
+          "videoLink": "https://www.youtube.com/embed/uAIuJpjkwEg?si=sODzE93htuZ6w6Fz",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei78/c01.jpg",
+          "02": "/ei78/c02.jpg",
+          "03": "/ei78/c03.jpg",
+          "04": "/ei78/c04.jpg",
+          "05": "/ei78/c05.jpg",
+          "06": "/ei78/c06.jpg",
+          "07": "/ei78/c07.jpg",
+          "08": "/ei78/c08.jpg",
+          "09": "/ei78/c09.jpg",
+          "10": "/ei78/c10.jpg"
+        }
+      },
+      {
+        "id": 79,
+        "codigo": "ei79",
+        "tipo": "Casa",
+        "categoria": "venda",
+        "bairro": "Praia da Costa",                                                                                                 
+        "endereço": "Rua S/N, Lote Águas do Patipe",
+        "numero": "un 1",
+        "terreno": "600,00",
+        "construcao": "208,94",
+        "dormitorios": "2",
+        "vagas": "4",
+        "valor": "285.000,00",
+        "descricao": "Sala ampla, cozinha integrada, quartos com suíte, 01 banheiro social, área gourmet, área de serviço e jardins",
+        "url": {
+          "videoLink": "https://www.youtube.com/embed/1m8SjSiFYZE?si=eY34FJrboeWa7NQn",
+          "whatsappLink": "",
+          "compartilhar":""
+        },
+        "images": {
+          "01": "/ei79/c01.jpg",
+          "02": "/ei79/c02.jpg",
+          "03": "/ei79/c03.jpg",
+          "04": "/ei79/c04.jpg",
+          "05": "/ei79/c05.jpg",
+          "06": "/ei79/c06.jpg",
+          "07": "/ei79/c07.jpg",
+          "08": "/ei79/c08.jpg",
+          "09": "/ei79/c09.jpg",
+          "10": "/ei79/c10.jpg"
+        }
+      }
+    ]
+  }
