@@ -30,6 +30,9 @@
         "8": "/ei03/c08.jpg",
         "9": "/ei03/c09.jpg",
         "10": "/ei03/c10.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei03/1-blur_ei03-min.jpg"
       }
     },
     {
@@ -62,6 +65,9 @@
         "8": "/ei12/c08.jpg",
         "9": "/ei12/c09.jpg",
         "10": "/ei12/c10.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei12/1-blur_ei12-min.jpg"
       }
     },
     {
@@ -94,6 +100,9 @@
         "8": "/ei20/c08.jpg",
         "9": "/ei20/c09.jpg",
         "10": "/ei20/c10.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei20/1-blur_ei20-min.jpg"
       }
     },
     {
@@ -125,6 +134,9 @@
         "7": "/ei26/c07.jpg",
         "8": "/ei26/c08.jpg",
         "9": "/ei26/c09.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei26/1-blur_ei26-min.jpg"
       }
     },
     {
@@ -157,6 +169,9 @@
         "8": "/ei34/c08.jpg",
         "9": "/ei34/c09.jpg",
         "10": "/ei34/c10.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei34/1-blur_ei34-min.jpg"
       }
     },
     {
@@ -189,6 +204,9 @@
         "8": "/ei35/c08.jpg",
         "9": "/ei35/c09.jpg",
         "10": "/ei35/c10.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei35/1-blur_ei35-min.jpg"
       }
     },
     {
@@ -221,6 +239,9 @@
         "8": "/ei36/c08.jpg",
         "9": "/ei36/c09.jpg",
         "10": "/ei36/c10.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei36/1-blur_ei36-min.jpg"
       }
     },
     {
@@ -257,6 +278,9 @@
         "12": "/ei43/IMG_9868-min.JPG",
         "13": "/ei43/IMG_9867-min.JPG",
         "14": "/ei43/IMG_9866-min.JPG"
+      },
+      "blurs": {
+        "1": "/blur/ei43/1-blur_ei47-min.jpg"
       }
     },
     {
@@ -288,6 +312,9 @@
         "7": "/ei48/c07.jpg",
         "8": "/ei48/c08.jpg",
         "9": "/ei48/c09.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei48/1-blur_ei48-min.jpg"
       }
     },
     {
@@ -316,6 +343,9 @@
         "4": "/ei50/c04.jpg",
         "5": "/ei50/c05.jpg",
         "6": "/ei50/c06.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei50/1-blur_ei50-min.jpg"
       }
     },
     {
@@ -347,6 +377,9 @@
         "7": "/ei51/c07.jpg",
         "8": "/ei51/c08.jpg",
         "9": "/ei51/c09.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei51/1-blur_ei51-min.jpg"
       }
     },
     {
@@ -379,6 +412,9 @@
         "8": "/ei53/c08.jpg",
         "9": "/ei53/c09.jpg",
         "10": "/ei53/c10.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei53/1-blur_ei53-min.jpg"
       }
     },
     {
@@ -409,6 +445,9 @@
         "6": "/ei54/c06.jpg",
         "7": "/ei54/c07.jpg",
         "8": "/ei54/c08.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei54/1-blur_ei54-min.jpg"
       }
     },
     {
@@ -439,6 +478,9 @@
         "6": "/ei76/c06.jpg",
         "7": "/ei76/c07.jpg",
         "8": "/ei76/c08.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei76/1-blur_ei76-min.jpg"
       }
     },
     {
@@ -470,6 +512,9 @@
         "7": "/ei77/c07.jpg",
         "8": "/ei77/c08.jpg",
         "9": "/ei77/c09.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei77/1-blur_ei77-min.jpg"
       }
     },
     {
@@ -502,6 +547,9 @@
         "8": "/ei78/c08.jpg",
         "9": "/ei78/c09.jpg",
         "10": "/ei78/c10.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei78/1-blur_ei78-min.jpg"
       }
     },
     {
@@ -534,6 +582,9 @@
         "8": "/ei79/c08.jpg",
         "9": "/ei79/c09.jpg",
         "10": "/ei79/c10.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei79/1-blur_ei79-min.jpg"
       }
     }
   ]
