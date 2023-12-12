@@ -15,9 +15,7 @@
       "valor": "409.000,00",
       "descricao": "Na parte térrea: uma área para ponto comercial/ garagem ou outro investimento. Na parte superior: Varanda, 02 salas, 01 suíte, closet, 01 banheiro social, cozinha, área de serviço.",
       "url": {
-        "videoLink": "",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": ""
       },
       "images": {
         "1": "/ei03/c01.jpg",
@@ -36,6 +34,107 @@
       }
     },
     {
+      "id": 4,
+      "codigo": "ei04",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Centro",
+      "endereco": "Rua Rui Barbosa",
+      "numero": "528",
+      "terreno": "1.400,00",
+      "construcao": "215,42",
+      "dormitorios": "2",
+      "vagas": "1",
+      "valor": "350.000,00",
+      "descricao": "Imóvel em área nobre. Para quem busca morar em área arborizada, com muita segurança, excelente localização e certeza de um investimento que só valoriza.Próximo a academia, área de lazer, serviços públicos e pontos turísticos. DETALHES: Garagem 2 quartos sendo 1 suíte, 5 salas 2 banheiros",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei04/IMG_OK4137-min.jpg",
+        "2": "/ei04/IMG_OK4141-min.jpg",
+        "3": "/ei04/IMG_OK4164-min.jpg",
+        "4": "/ei04/IMG_OK4181-min.jpg",
+        "5": "/ei04/IMG_OK4178-min.jpg",
+        "6": "/ei04/IMG_OK4172-min.jpg",
+        "7": "/ei04/IMG_OK4182-min.jpg",
+        "8": "/ei04/IMG_OK4183-min.jpg",
+        "9": "/ei04/IMG_OK4167-min.jpg",
+        "10": "/ei04/IMG_OK4156-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 9,
+      "codigo": "ei09",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Centro",
+      "endereco": "Rua João Ribeiro Vargens",
+      "numero": "566",
+      "terreno": "242,60",
+      "construcao": "63,95",
+      "dormitorios": "2",
+      "vagas": "1",
+      "valor": "145.000,00",
+      "descricao": "IMÓVEL COM LOCALIZAÇÃO ESTRATÉGICA - Rua que dá acesso à Avenida Rio Branco e ao centro comercial de Canavieiras",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei09/IMG_ok6721-min.jpg",
+        "2": "/ei09/IMG_ok6718-min.jpg",
+        "3": "/ei09/IMG_ok6710-min.jpg",
+        "4": "/ei09/IMG_ok6712-min.jpg",
+        "5": "/ei09/IMG_ok6714-min.jpg",
+        "6": "/ei09/IMG_ok6708-min.jpg",
+        "7": "/ei09/IMG_ok6706-min.jpg",
+        "8": "/ei09/IMG_ok6704-min.jpg",
+        "9": "/ei09/IMG_ok6701-min.jpg",
+        "10": "/ei09/IMG_ok6699-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 10,
+      "codigo": "ei10",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Centro",
+      "endereco": "Rua José Carlos C. Filho",
+      "numero": "381",
+      "terreno": "169,87",
+      "construcao": "169,87",
+      "dormitorios": "2",
+      "vagas": "1",
+      "valor": "190.000,00",
+      "descricao": "Casa com garagem, sala, cozinha, 02 quartos, 01 banheiro social.",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei10/IMG_ok6822-min.jpg",
+        "2": "/ei10/IMG_ok6828-min.jpg",
+        "3": "/ei10/IMG_ok6817-min.jpg",
+        "4": "/ei10/IMG_ok6816-min.jpg",
+        "5": "/ei10/IMG_ok6806-min.jpg",
+        "6": "/ei10/IMG_ok6805-min.jpg",
+        "7": "/ei10/IMG_ok6803-min.jpg",
+        "8": "/ei10/IMG_ok6801-min.jpg",
+        "9": "/ei10/IMG_ok6813-min.jpg",
+        "10": "/ei10/IMG_ok6810-min.jpg",
+        "11": "/ei10/IMG_ok6808-min.jpg",
+        "12": "/ei10/IMG_ok6797-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
       "id": 12,
       "codigo": "ei12",
       "tipo": "Casa",
@@ -50,9 +149,7 @@
       "valor": "280.000,00",
       "descricao": "Ilha Náutica, região da Atalaia Sul DETALHES: Piscina, garagem, varanda, 01 quarto, 01 suíte, sala ampla, banheiro social, cozinha e área de serviço.",
       "url": {
-        "videoLink": "https://www.youtube.com/embed/bH5Khy_gfSk?si=-jAE8CxOy8OCBTAg",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": "https://www.youtube.com/embed/bH5Khy_gfSk?si=-jAE8CxOy8OCBTAg"
       },
       "images": {
         "1": "/ei12/c01.jpg",
@@ -71,6 +168,78 @@
       }
     },
     {
+      "id": 13,
+      "codigo": "ei13",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Centro",
+      "endereco": "Rua Augusto Severo",
+      "numero": "683",
+      "terreno": "142,00",
+      "construcao": "100,00",
+      "dormitorios": "4",
+      "vagas": "1",
+      "valor": "210.000,00",
+      "descricao": "Descrição imóvel: 4 quartos sendo 1 com varanda, 2 banheiros sociais, 1 sala, 1 cozinha, garagem, área de serviço.",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei13/IMG_ok8129-min.jpg",
+        "2": "/ei13/IMG_ok8119-min.jpg",
+        "3": "/ei13/IMG_ok8113-min.jpg",
+        "4": "/ei13/IMG_ok8106-min.jpg",
+        "5": "/ei13/IMG_ok8109-min.jpg",
+        "6": "/ei13/IMG_ok8097-min.jpg",
+        "7": "/ei13/IMG_ok8088-min.jpg",
+        "8": "/ei13/IMG_ok8087-min.jpg",
+        "9": "/ei13/IMG_ok8092-min.jpg",
+        "10": "/ei13/IMG_ok8093-min.jpg",
+        "11": "/ei13/IMG_ok8099-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 19,
+      "codigo": "ei19",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "São Sebastião",
+      "endereco": "Rua Laurindo Antônio de Souza",
+      "numero": "137",
+      "terreno": "111,38",
+      "construcao": "70,24",
+      "dormitorios": "2",
+      "vagas": "1",
+      "valor": "200.000,00",
+      "descricao": "Térreo: Área de garagem, área de serviço; 1° andar: 1 suíte, 1 quarto, banheiro social, sala conjugada com a cozinha.",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei19/IMG_ok8843-min.jpg",
+        "2": "/ei19/IMG_ok8842-min.jpg",
+        "3": "/ei19/IMG_ok8834-min.jpg",
+        "4": "/ei19/IMG_ok8804-min.jpg",
+        "5": "/ei19/IMG_ok8819-min.jpg",
+        "6": "/ei19/IMG_ok8822-min.jpg",
+        "7": "/ei19/IMG_ok8830-min.jpg",
+        "8": "/ei19/IMG_ok8811-min.jpg",
+        "9": "/ei19/IMG_ok8812-min.jpg",
+        "10": "/ei19/IMG_ok8815-min.jpg",
+        "11": "/ei19/IMG_ok8788-min.jpg",
+        "12": "/ei19/IMG_ok8794-min.jpg",
+        "13": "/ei19/IMG_ok8798-min.jpg",
+        "14": "/ei19/IMG_ok8797-min.jpg",
+        "15": "/ei19/IMG_ok8847-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
       "id": 20,
       "codigo": "ei20",
       "tipo": "Casa",
@@ -83,11 +252,9 @@
       "dormitorios": "2",
       "vagas": "2",
       "valor": "280.000,00",
-      "descricao": "02suítes, 02 quarto, 01 banheiro social, 01 área gourmet, quintal, varanda, garagem, jardim, 02 salas e cozinha. 1 churrasqueira , 1 fogão a lenha",
+      "descricao": "02 suítes, 02 quarto, 01 banheiro social, 01 área gourmet, quintal, varanda, garagem, jardim, 02 salas e cozinha. 1 churrasqueira , 1 fogão a lenha",
       "url": {
-        "videoLink": "",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": ""
       },
       "images": {
         "1": "/ei20/c01.jpg",
@@ -106,6 +273,43 @@
       }
     },
     {
+      "id": 24,
+      "codigo": "ei24",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Centro",
+      "endereco": "Av. Otávio Mangabeira",
+      "numero": "1325",
+      "terreno": "316,34",
+      "construcao": "72,00",
+      "dormitorios": "3",
+      "vagas": "N/D",
+      "valor": "200.000,00",
+      "descricao": "Ótima oportunidade de negocio com uma boa localização uma casa residencial, possuindo 03 quartos, 01 sala, 01 banheiro, 01 cozinha, quintal e área de serviço, e ponto comercial;",
+      "url": {
+        "videoLink": "https://www.youtube.com/embed/fKGtXFxlyqM?si=_y14kQx57f3r2s9K"
+      },
+      "images": {
+        "1": "/ei24/IMG_5776-min.jpg",
+        "2": "/ei24/IMG_5775-min.jpg",
+        "3": "/ei24/IMG_5768-min.jpg",
+        "4": "/ei24/IMG_5758-min.jpg",
+        "5": "/ei24/IMG_5751-min.jpg",
+        "6": "/ei24/IMG_5752-min.jpg",
+        "7": "/ei24/IMG_5757-min.jpg",
+        "8": "/ei24/IMG_5753-min.jpg",
+        "9": "/ei24/IMG_5747-min.jpg",
+        "10": "/ei24/IMG_5746-min.jpg",
+        "11": "/ei24/IMG_5745-min.jpg",
+        "12": "/ei24/IMG_5743-min.jpg",
+        "13": "/ei24/IMG_5736-min.jpg",
+        "14": "/ei24/IMG_5735-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
       "id": 26,
       "codigo": "ei26",
       "tipo": "Casa",
@@ -120,9 +324,7 @@
       "valor": "690.000,00",
       "descricao": "Casa com garagem para 02 carros, salão de jogos, cozinha arejada, área goumert, hall de entrada arquitetônico, 04 quartos, 01 suíte, cozinha, piscina, lavanderia, varanda interna, varanda externa, depósito e jardins.",
       "url": {
-        "videoLink": "https://www.youtube.com/embed/iJ16LGJOewQ?si=5ZRPl-RcBYyoguDm",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": "https://www.youtube.com/embed/iJ16LGJOewQ?si=5ZRPl-RcBYyoguDm"
       },
       "images": {
         "1": "/ei26/c01.jpg",
@@ -140,6 +342,38 @@
       }
     },
     {
+      "id": 29,
+      "codigo": "ei29",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Augusto Reis",
+      "endereco": "Tv. Maria de Lourdes S. Pinto",
+      "numero": "46",
+      "terreno": "90,00",
+      "construcao": "70,00",
+      "dormitorios": "2",
+      "vagas": "1",
+      "valor": "100.000,00",
+      "descricao": "Sala, cozinha, 02 quartos, 01 banheiro social, área de serviço e garagem.",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei29/IMG_OK0286-min.jpg",
+        "2": "/ei29/IMG_OK0262-min.jpg",
+        "3": "/ei29/IMG_OK0266-min.jpg",
+        "4": "/ei29/IMG_OK0258-min.jpg",
+        "5": "/ei29/IMG_OK0255-min.jpg",
+        "6": "/ei29/IMG_OK0257-min.jpg",
+        "7": "/ei29/IMG_OK0254-min.jpg",
+        "8": "/ei29/IMG_OK0253-min.jpg",
+        "9": "/ei29/IMG_OK0268-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
       "id": 34,
       "codigo": "ei34",
       "tipo": "Casa",
@@ -154,9 +388,7 @@
       "valor": "470.000,00",
       "descricao": "2 suítes amplas, 2 salas, cozinha, area de serviço, garagem.",
       "url": {
-        "videoLink": "",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": ""
       },
       "images": {
         "1": "/ei34/c01.jpg",
@@ -189,9 +421,7 @@
       "valor": "320.000,00",
       "descricao": "Casa com jardim, garagem, sala, cozinha, área de serviço, área gourmet, 02 quartos sendo 01 suíte, escritório, 02 banheiros sociais",
       "url": {
-        "videoLink": "https://www.youtube.com/embed/3-3EoXCtd7A?si=2zktz70l3kNIIkLu",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": "https://www.youtube.com/embed/3-3EoXCtd7A?si=2zktz70l3kNIIkLu"
       },
       "images": {
         "1": "/ei35/c01.jpg",
@@ -224,9 +454,7 @@
       "valor": "380.000,00",
       "descricao": "2 varandas, 01 sala, 03 suítes, 01 cozinha, 01 área de serviço, 01 banheiro social, 01 dependência de empregada com banheiro, quintal, garagem.",
       "url": {
-        "videoLink": "https://www.youtube.com/embed/aWk8sUA3y_I?si=H29nH0dz6otcp-6w",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": "https://www.youtube.com/embed/aWk8sUA3y_I?si=H29nH0dz6otcp-6w"
       },
       "images": {
         "1": "/ei36/c01.jpg",
@@ -245,45 +473,6 @@
       }
     },
     {
-      "id": 47,
-      "codigo": "ei47",
-      "tipo": "Casa",
-      "categoria": "venda",
-      "bairro": "Birindiba",
-      "endereco": "Rua Edmundo Lopes de Castro",
-      "numero": "367",
-      "terreno": "235,90",
-      "construcao": "129,42",
-      "dormitorios": "3",
-      "vagas": "2",
-      "valor": "350.000,00",
-      "descricao": "Imóvel residencial com a seguinte conformação 10,70m de frente por 10,60m de fundo por 22,30m de um lado e 22,00m do outro lado, perfazendo uma área total de 235,90m² tendo uma área construída de 129,42m² com a seguinte descrição: 02 salas, 01 suíte, 02 quartos, 01 sanitario, 01 cozinha, 01 garagem",
-      "url": {
-        "videoLink": "",
-        "whatsappLink": "",
-        "compartilhar": ""
-      },
-      "images": {
-        "1": "/ei43/IMG_9889-min.JPG",
-        "2": "/ei43/IMG_9890-min.JPG",
-        "3": "/ei43/IMG_9884-min.JPG",
-        "4": "/ei43/IMG_9882-min.JPG",
-        "5": "/ei43/IMG_9880-min.JPG",
-        "6": "/ei43/IMG_9881-min.JPG",
-        "7": "/ei43/IMG_9876-min.JPG",
-        "8": "/ei43/IMG_9878-min.JPG",
-        "9": "/ei43/IMG_9874-min.JPG",
-        "10": "/ei43/IMG_9872-min.JPG",
-        "11": "/ei43/IMG_9869-min.JPG",
-        "12": "/ei43/IMG_9868-min.JPG",
-        "13": "/ei43/IMG_9867-min.JPG",
-        "14": "/ei43/IMG_9866-min.JPG"
-      },
-      "blurs": {
-        "1": "/blur/ei43/1-blur_ei47-min.jpg"
-      }
-    },
-    {
       "id": 48,
       "codigo": "ei48",
       "tipo": "Casa",
@@ -298,9 +487,7 @@
       "valor": "198.000,00",
       "descricao": "Área para ponto comercial já incluso banheiro social, garagem, 02 quartos, 01 cozinha, 02 banheiros, cozinha, área de serviço, lavanderia interna e quintal.",
       "url": {
-        "videoLink": "",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": ""
       },
       "images": {
         "1": "/ei48/c01.jpg",
@@ -332,9 +519,7 @@
       "valor": "300.000,00",
       "descricao": "3 quartos, 3 banheiros, 1 sala, cozinha, copa, área de serviço, quintal e laje com algumas colunas em alvenaria pronta para construir outro imovel, garagem coberta e portão eletrônico.",
       "url": {
-        "videoLink": "https://www.youtube.com/embed/wSQy_DgUhKI?si=_uzODBAO8p60BFdr",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": "https://www.youtube.com/embed/wSQy_DgUhKI?si=_uzODBAO8p60BFdr"
       },
       "images": {
         "1": "/ei50/c02.jpg",
@@ -363,9 +548,7 @@
       "valor": "2.000.000,00",
       "descricao": "Garagem, escritório, Sala de Jantar, Cozinha despensa, 7 suítes, 9 banheiros, área de serviço escritório, área gourmet com churrasqueira, cook top, ar-condicionado e banheiro.",
       "url": {
-        "videoLink": "https://www.youtube.com/embed/0Z434xbIubo?si=SZercvuj5mWa0ciq",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": "https://www.youtube.com/embed/0Z434xbIubo?si=SZercvuj5mWa0ciq"
       },
       "images": {
         "1": "/ei51/c01.jpg",
@@ -397,9 +580,7 @@
       "valor": "1.800.000,00",
       "descricao": "Jardins, área de convivência, piscina, área gourmet com churrasqueira, hall de entrada, varanda, sala ampla, sala de jantar, cozinha, 03 quartos, banheiro social, mezanino com suíte e closet, lavanderia.",
       "url": {
-        "videoLink": "",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": ""
       },
       "images": {
         "1": "/ei53/c01.jpg",
@@ -432,9 +613,7 @@
       "valor": "400.000,00",
       "descricao": "Jardim, piscina, área toda murada, área de lazer, telhado colonial, portas e janelas de madeira de lei, sala, cozinha conjugada, 02 suítes, área de serviço e área externa com espaço para expansão.",
       "url": {
-        "videoLink": "",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": ""
       },
       "images": {
         "1": "/ei54/c01.jpg",
@@ -465,9 +644,7 @@
       "valor": "290.000,00",
       "descricao": "Recém construída, possui sala, cozinha com mobiliário em mármore, 03 quartos sendo 01 suíte, garagem, área de serviço e 01 banheiro social.",
       "url": {
-        "videoLink": "",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": ""
       },
       "images": {
         "1": "/ei76/c01.jpg",
@@ -498,9 +675,7 @@
       "valor": "630.000,00",
       "descricao": "Garagem, área gourmet, sala, cozinha, área de serviço, lavanderia, 03 suítes amplas , sala e varanda.",
       "url": {
-        "videoLink": "",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": ""
       },
       "images": {
         "1": "/ei77/c01.jpg",
@@ -532,9 +707,7 @@
       "valor": "525.000,00",
       "descricao": "Sala de estar, sala de jantar com mesa de 8 lugares , cozinha, 1 banheiro social, 3 quartos sendo 1 quarto com escritório e 1 suíte com guarda roupa de casal, rack , TV e criado mudo, lavanderia, quiosque com jardim, garagem para até 4 carros.",
       "url": {
-        "videoLink": "https://www.youtube.com/embed/uAIuJpjkwEg?si=sODzE93htuZ6w6Fz",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": "https://www.youtube.com/embed/uAIuJpjkwEg?si=sODzE93htuZ6w6Fz"
       },
       "images": {
         "1": "/ei78/c01.jpg",
@@ -567,9 +740,7 @@
       "valor": "285.000,00",
       "descricao": "Sala ampla, cozinha integrada, quartos com suíte, 01 banheiro social, área gourmet, área de serviço e jardins",
       "url": {
-        "videoLink": "https://www.youtube.com/embed/1m8SjSiFYZE?si=eY34FJrboeWa7NQn",
-        "whatsappLink": "",
-        "compartilhar": ""
+        "videoLink": "https://www.youtube.com/embed/1m8SjSiFYZE?si=eY34FJrboeWa7NQn"
       },
       "images": {
         "1": "/ei79/c01.jpg",
@@ -585,6 +756,381 @@
       },
       "blurs": {
         "1": "/blur/ei79/1-blur_ei79-min.jpg"
+      }
+    }
+  ],
+  "pendentes": [
+    {
+      "id": 1,
+      "codigo": "",
+      "tipo": "",
+      "categoria": "",
+      "bairro": "",
+      "endereco": "",
+      "numero": "",
+      "terreno": "",
+      "construcao": "",
+      "dormitorios": "",
+      "vagas": "",
+      "valor": "",
+      "descricao": "",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei01/IMG_ok2995-min.jpg",
+        "2": "/ei01/IMG_ok2967-min.jpg",
+        "3": "/ei01/IMG_ok2993-min.jpg",
+        "4": "/ei01/IMG_ok2974-min.jpg",
+        "5": "/ei01/IMG_ok2985-min.jpg",
+        "6": "/ei01/IMG_ok2987-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 14,
+      "codigo": "",
+      "tipo": "",
+      "categoria": "",
+      "bairro": "",
+      "endereco": "",
+      "numero": "",
+      "terreno": "",
+      "construcao": "",
+      "dormitorios": "",
+      "vagas": "",
+      "valor": "",
+      "descricao": "",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei14/IMG_ok8277-min.jpg",
+        "2": "/ei14/IMG_ok8265-min.jpg",
+        "3": "/ei14/IMG_ok8262-min.jpg",
+        "4": "/ei14/IMG_ok8258-min.jpg",
+        "5": "/ei14/IMG_ok8271-min.jpg",
+        "6": "/ei14/IMG_ok8253-min.jpg",
+        "7": "/ei14/IMG_ok8251-min.jpg",
+        "8": "/ei14/IMG_ok8249-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 18,
+      "codigo": "",
+      "tipo": "",
+      "categoria": "",
+      "bairro": "",
+      "endereco": "",
+      "numero": "",
+      "terreno": "",
+      "construcao": "",
+      "dormitorios": "",
+      "vagas": "",
+      "valor": "",
+      "descricao": "",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei18/IMG_ok8102-min.jpg",
+        "2": "/ei18/IMG_ok8100-min.jpg",
+        "3": "/ei18/IMG_ok8091-min.jpg",
+        "4": "/ei18/IMG_ok8088-min.jpg",
+        "5": "/ei18/IMG_ok8086-min.jpg",
+        "6": "/ei18/IMG_ok8060-min.jpg",
+        "7": "/ei18/IMG_ok8061-min.jpg",
+        "8": "/ei18/IMG_ok8070-min.jpg",
+        "9": "/ei18/IMG_ok8077-min.jpg",
+        "10": "/ei18/IMG_ok8081-min.jpg",
+        "11": "/ei18/IMG_ok8063-min.jpg",
+        "12": "/ei18/IMG_ok8066-min.jpg",
+        "13": "/ei18/IMG_ok8057-min.jpg",
+        "14": "/ei18/IMG_ok8055-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 23,
+      "codigo": "ei23",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Centro",
+      "endereco": "Rua Benjamim Constant",
+      "numero": "169",
+      "terreno": "150,00",
+      "construcao": "150,00",
+      "dormitorios": "2",
+      "vagas": "N/D",
+      "valor": "",
+      "descricao": "Excelente localização. Imóvel com 150 metros quadrados, sendo 01 sala, 02 quartos, banheiro social, área de serviço e quintal.",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei23/IMG_ok4754-min.jpg",
+        "2": "/ei23/IMG_ok4749-min.jpg",
+        "3": "/ei23/IMG_ok4752-min.jpg",
+        "4": "/ei23/IMG_ok4748-min.jpg",
+        "5": "/ei23/IMG_ok4745-min.jpg",
+        "6": "/ei23/IMG_ok4742-min.jpg",
+        "7": "/ei23/IMG_ok4739-min.jpg",
+        "8": "/ei23/IMG_ok4737-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 25,
+      "codigo": "ei25",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "",
+      "endereco": "",
+      "numero": "",
+      "terreno": "224,85",
+      "construcao": "86,00",
+      "dormitorios": "3",
+      "vagas": "N/D",
+      "valor": "220.000,00",
+      "descricao": "Varanda, 3 salas, 3 quartos, 1 suíte, cozinha, área de serviço, 3 banheiros, quintal.",
+      "url": {
+        "videoLink": "https://www.youtube.com/embed/YppLLtfbikw?si=sV4cLFt9JwmUKu_S"
+      },
+      "images": {
+        "1": "/ei25/IMG_ok0098-min.jpg",
+        "2": "/ei25/IMG_ok0101-min.jpg",
+        "3": "/ei25/IMG_ok0089-min.jpg",
+        "4": "/ei25/IMG_ok0085-min.jpg",
+        "5": "/ei25/IMG_ok0083-min.jpg",
+        "6": "/ei25/IMG_ok0074-min.jpg",
+        "7": "/ei25/IMG_ok0073-min.jpg",
+        "8": "/ei25/IMG_ok0070-min.jpg",
+        "9": "/ei25/IMG_ok0065-min.jpg",
+        "10": "/ei25/IMG_ok0064-min.jpg",
+        "11": "/ei25/IMG_ok0063-min.jpg",
+        "12": "/ei25/IMG_OK0056-min.jpg",
+        "13": "/ei25/IMG_OK0055-min.jpg",
+        "14": "/ei25/IMG_OK0053-min.jpg",
+        "15": "/ei25/IMG_OK0051-min.jpg",
+        "16": "/ei25/IMG_OK0049-min.jpg",
+        "17": "/ei25/IMG_OK0048-min.jpg",
+        "18": "/ei25/IMG_ok0039-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 30,
+      "codigo": "",
+      "tipo": "",
+      "categoria": "",
+      "bairro": "",
+      "endereco": "",
+      "numero": "",
+      "terreno": "",
+      "construcao": "",
+      "dormitorios": "",
+      "vagas": "",
+      "valor": "",
+      "descricao": "",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei30/IMG_ok9808-min.jpg",
+        "2": "/ei30/IMG_ok9805-min.jpg",
+        "3": "/ei30/IMG_ok9802-min.jpg",
+        "4": "/ei30/IMG_ok9796-min.jpg",
+        "5": "/ei30/IMG_ok9792-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 32,
+      "codigo": "",
+      "tipo": "",
+      "categoria": "",
+      "bairro": "",
+      "endereco": "",
+      "numero": "",
+      "terreno": "",
+      "construcao": "",
+      "dormitorios": "",
+      "vagas": "",
+      "valor": "",
+      "descricao": "",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei32/IMG_ok9633-min.jpg",
+        "2": "/ei32/IMG_ok9600-min.jpg",
+        "3": "/ei32/IMG_ok9596-min.jpg",
+        "4": "/ei32/IMG_ok9595-min.jpg",
+        "5": "/ei32/IMG_ok9590-min.jpg",
+        "6": "/ei32/IMG_ok9586-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 44,
+      "codigo": "ei44",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Cidade Nova",
+      "endereco": "Rua Osvaldo Pereira de Souza",
+      "numero": "76",
+      "terreno": "",
+      "construcao": "",
+      "dormitorios": "2",
+      "vagas": "1",
+      "valor": "360.000,00",
+      "descricao": "Garagem, hall de entrada, sala ampla, cozinha, dois quartos sendo 01 suíte, banheiro social e área de serviço.",
+      "url": {
+        "videoLink": "https://www.youtube.com/embed/800xqZDOmD0?si=RmEdh8STpC3tyFOP"
+      },
+      "images": {
+        "1": "/ei44/IMG_ok0057-min.jpg",
+        "2": "/ei44/IMG_ok0059-min.jpg",
+        "3": "/ei44/IMG_ok9604-min.jpg",
+        "4": "/ei44/IMG_ok9606-min.jpg",
+        "5": "/ei44/IMG_ok9608-min.jpg",
+        "6": "/ei44/IMG_ok9609-min.jpg",
+        "7": "/ei44/IMG_ok9610-min.jpg",
+        "8": "/ei44/IMG_ok9611-min.jpg",
+        "9": "/ei44/IMG_ok9612-min.jpg",
+        "10": "/ei44/IMG_ok9613-min.jpg",
+        "11": "/ei44/IMG_ok9617-min.jpg",
+        "12": "/ei44/IMG_ok9619-min.jpg",
+        "13": "/ei44/IMG_ok9620-min.jpg",
+        "14": "/ei44/IMG_ok9624-min.jpg",
+        "15": "/ei44/IMG_ok9627-min.jpg",
+        "16": "/ei44/IMG_ok9628-min.jpg",
+        "17": "/ei44/IMG_ok9632-min.jpg",
+        "18": "/ei44/IMG_ok9602-min.jpg",
+        "19": "/ei44/IMG_ok9601-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 45,
+      "codigo": "",
+      "tipo": "",
+      "categoria": "",
+      "bairro": "",
+      "endereco": "",
+      "numero": "",
+      "terreno": "",
+      "construcao": "",
+      "dormitorios": "",
+      "vagas": "",
+      "valor": "",
+      "descricao": "",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei45/IMG_9472-min.jpg",
+        "2": "/ei45/IMG_9470-min.jpg",
+        "3": "/ei45/IMG_9466-min.jpg",
+        "4": "/ei45/IMG_9462-min.jpg",
+        "5": "/ei45/IMG_9458-min.jpg",
+        "6": "/ei45/IMG_9460-min.jpg",
+        "7": "/ei45/IMG_9462-min.jpg",
+        "8": "/ei45/IMG_9454-min.jpg",
+        "9": "/ei45/IMG_9456-min.jpg",
+        "10": "/ei45/IMG_9453-min.jpg",
+        "11": "/ei45/IMG_9451-min.jpg",
+        "12": "/ei45/IMG_9450-min.jpg",
+        "13": "/ei45/IMG_9447-min.jpg",
+        "14": "/ei45/IMG_9446-min.jpg",
+        "15": "/ei45/IMG_9444-min.jpg",
+        "16": "/ei45/IMG_9464-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    },
+    {
+      "id": 46,
+      "codigo": "ei46",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "São Sebastião",
+      "endereco": "Rua Antônio Laurindo de Souza",
+      "numero": "110",
+      "terreno": "",
+      "construcao": "",
+      "dormitorios": "6",
+      "vagas": "4",
+      "valor": "450.000,00",
+      "descricao": "Área arborizada e segura , bairro próximo ao centro da cidade, próximo a escolas, supermercados, posto de saúde, repartições públicas e outros. CASA SUPERIOR: Varanda, 02 suítes, 01 quarto, 01 banheiro social, 01 sala, 01 cozinha, área de serviço, despensa, área gourmet com mobiliário em granito, piscina moderna e banheiro social. CASA TÉRREA: Garagem, 02 banheiro sociais, 03 quartos sendo 01 suíte, cozinha, sala, área de serviço ampla e depósito.",
+      "url": {
+        "videoLink": "https://www.youtube.com/embed/vrHeJPRAbfw?si=K6NhG1K6ICvGPW--"
+      },
+      "images": {
+        "1": "/ei46/IMG_ok9210-min.jpg",
+        "2": "/ei46/IMG_ok9200-min.jpg",
+        "3": "/ei46/IMG_ok9201-min.jpg",
+        "4": "/ei46/IMG_ok9198-min.jpg",
+        "5": "/ei46/IMG_ok9195-min.jpg",
+        "6": "/ei46/IMG_ok9194-min.jpg",
+        "7": "/ei46/IMG_ok9188-min.jpg",
+        "8": "/ei46/IMG_ok9187-min.jpg",
+        "9": "/ei46/IMG_ok9185-min.jpg",
+        "10": "/ei46/IMG_ok9183-min.jpg",
+        "11": "/ei46/IMG_ok9182-min.jpg",
+        "12": "/ei46/IMG_ok9181-min.jpg",
+        "13": "/ei46/IMG_ok9179-min.jpg",
+        "14": "/ei46/IMG_ok9177-min.jpg",
+        "15": "/ei46/IMG_ok9175-min.jpg",
+        "16": "/ei46/IMG_ok9174-min.jpg"
+      },
+      "blurs": {
+        "1": ""
+      }
+    }
+  ],
+  "terrenos": [
+    {
+
+    }
+  ],
+  "rural": [
+    {
+      "id": "",
+      "codigo": "",
+      "tipo": "",
+      "categoria": "",
+      "localizacao": "",
+      "area": "",
+      "valor": "",
+      "descricao": "",
+      "url": {
+        "Link": "",
+        "compartilhar": ""
+      },
+      "images": {
+        "1": ""
+      },
+      "blurs": {
+        "1": ""
       }
     }
   ]
