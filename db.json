@@ -473,6 +473,47 @@
       }
     },
     {
+      "id": 47,
+      "codigo": "ei47",
+      "tipo": "Casa",
+      "categoria": "venda",
+      "bairro": "Birindiba",
+      "endereco": "Rua Edmundo Lopes de Castro",
+      "numero": "367",
+      "terreno": "235,90",
+      "construcao": "129,42",
+      "dormitorios": "3",
+      "vagas": "2",
+      "valor": "350.000,00",
+      "descricao": "Imóvel residencial com a seguinte conformação 10,70m de frente por 10,60m de fundo por 22,30m de um lado e 22,00m do outro lado, perfazendo uma área total de 235,90m² tendo uma área construída de 129,42m² com a seguinte descrição: 02 salas, 01 suíte, 02 quartos, 01 sanitario, 01 cozinha, 01 garagem",
+      "url": {
+        "videoLink": ""
+      },
+      "images": {
+        "1": "/ei47/IMG_ok0993-min.jpg",
+        "2": "/ei47/IMG_ok0988-min.jpg",
+        "3": "/ei47/IMG_ok0986-min.jpg",
+        "4": "/ei47/IMG_ok0976-min.jpg",
+        "5": "/ei47/IMG_ok0974-min.jpg",
+        "6": "/ei47/IMG_ok0980-min.jpg",
+        "7": "/ei47/IMG_ok0969-min.jpg",
+        "8": "/ei47/IMG_ok0966-min.jpg",
+        "9": "/ei47/IMG_ok0965-min.jpg",
+        "10": "/ei47/IMG_ok0961-min.jpg",
+        "11": "/ei47/IMG_ok0958-min.jpg",
+        "12": "/ei47/IMG_ok0956-min.jpg",
+        "13": "/ei47/IMG_ok0955-min.jpg",
+        "14": "/ei47/IMG_ok0952-min.jpg",
+        "15": "/ei47/IMG_ok0949-min.jpg",
+        "16": "/ei47/IMG_ok0947-min.jpg",
+        "17": "/ei47/IMG_ok0945-min.jpg",
+        "18": "/ei47/IMG_ok0943-min.jpg"
+      },
+      "blurs": {
+        "1": "/blur/ei43/1-blur_ei47-min.jpg"
+      }
+    },
+    {
       "id": 48,
       "codigo": "ei48",
       "tipo": "Casa",
