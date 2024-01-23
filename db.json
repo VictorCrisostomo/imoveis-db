@@ -168,40 +168,6 @@
       }
     },
     {
-      "id": 13,
-      "codigo": "ei13",
-      "tipo": "Casa",
-      "categoria": "venda",
-      "bairro": "Centro",
-      "endereco": "Rua Augusto Severo",
-      "numero": "683",
-      "terreno": "142,00",
-      "construcao": "100,00",
-      "dormitorios": "4",
-      "vagas": "1",
-      "valor": "210.000,00",
-      "descricao": "Descrição imóvel: 4 quartos sendo 1 com varanda, 2 banheiros sociais, 1 sala, 1 cozinha, garagem, área de serviço.",
-      "url": {
-        "videoLink": ""
-      },
-      "images": {
-        "1": "/ei13/IMG_ok8129-min.jpg",
-        "2": "/ei13/IMG_ok8119-min.jpg",
-        "3": "/ei13/IMG_ok8113-min.jpg",
-        "4": "/ei13/IMG_ok8106-min.jpg",
-        "5": "/ei13/IMG_ok8109-min.jpg",
-        "6": "/ei13/IMG_ok8097-min.jpg",
-        "7": "/ei13/IMG_ok8088-min.jpg",
-        "8": "/ei13/IMG_ok8087-min.jpg",
-        "9": "/ei13/IMG_ok8092-min.jpg",
-        "10": "/ei13/IMG_ok8093-min.jpg",
-        "11": "/ei13/IMG_ok8099-min.jpg"
-      },
-      "blurs": {
-        "1": ""
-      }
-    },
-    {
       "id": 19,
       "codigo": "ei19",
       "tipo": "Casa",
