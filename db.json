@@ -206,39 +206,6 @@
       }
     },
     {
-      "id": 20,
-      "codigo": "ei20",
-      "tipo": "Casa",
-      "categoria": "venda",
-      "bairro": "Praia da Costa",
-      "endereco": "Rua dos Anus",
-      "numero": "250",
-      "terreno": "600,00",
-      "construcao": "220,00",
-      "dormitorios": "2",
-      "vagas": "2",
-      "valor": "280.000,00",
-      "descricao": "02 suítes, 02 quarto, 01 banheiro social, 01 área gourmet, quintal, varanda, garagem, jardim, 02 salas e cozinha. 1 churrasqueira , 1 fogão a lenha",
-      "url": {
-        "videoLink": ""
-      },
-      "images": {
-        "1": "/ei20/c01.jpg",
-        "2": "/ei20/c02.jpg",
-        "3": "/ei20/c03.jpg",
-        "4": "/ei20/c04.jpg",
-        "5": "/ei20/c05.jpg",
-        "6": "/ei20/c06.jpg",
-        "7": "/ei20/c07.jpg",
-        "8": "/ei20/c08.jpg",
-        "9": "/ei20/c09.jpg",
-        "10": "/ei20/c10.jpg"
-      },
-      "blurs": {
-        "1": "/blur/ei20/1-blur_ei20-min.jpg"
-      }
-    },
-    {
       "id": 24,
       "codigo": "ei24",
       "tipo": "Casa",
@@ -287,7 +254,7 @@
       "construcao": "415,00",
       "dormitorios": "4",
       "vagas": "3",
-      "valor": "690.000,00",
+      "valor": "1.300.000,00",
       "descricao": "Casa com garagem para 02 carros, salão de jogos, cozinha arejada, área goumert, hall de entrada arquitetônico, 04 quartos, 01 suíte, cozinha, piscina, lavanderia, varanda interna, varanda externa, depósito e jardins.",
       "url": {
         "videoLink": "https://www.youtube.com/embed/iJ16LGJOewQ?si=5ZRPl-RcBYyoguDm"
@@ -351,7 +318,7 @@
       "construcao": "180,00",
       "dormitorios": "2",
       "vagas": "1",
-      "valor": "470.000,00",
+      "valor": "650.000,00",
       "descricao": "2 suítes amplas, 2 salas, cozinha, area de serviço, garagem.",
       "url": {
         "videoLink": ""
@@ -584,7 +551,7 @@
       "construcao": "359,10",
       "dormitorios": "4",
       "vagas": "3",
-      "valor": "1.800.000,00",
+      "valor": "1.645.000,00",
       "descricao": "Jardins, área de convivência, piscina, área gourmet com churrasqueira, hall de entrada, varanda, sala ampla, sala de jantar, cozinha, 03 quartos, banheiro social, mezanino com suíte e closet, lavanderia.",
       "url": {
         "videoLink": ""
@@ -697,39 +664,6 @@
       },
       "blurs": {
         "1": "/blur/ei77/1-blur_ei77-min.jpg"
-      }
-    },
-    {
-      "id": 78,
-      "codigo": "ei78",
-      "tipo": "Casa",
-      "categoria": "venda",
-      "bairro": "Tancredão",
-      "endereco": "Rua Fidelina Barreto",
-      "numero": "350",
-      "terreno": "330,00",
-      "construcao": "250,00",
-      "dormitorios": "3",
-      "vagas": "2",
-      "valor": "525.000,00",
-      "descricao": "Sala de estar, sala de jantar com mesa de 8 lugares , cozinha, 1 banheiro social, 3 quartos sendo 1 quarto com escritório e 1 suíte com guarda roupa de casal, rack , TV e criado mudo, lavanderia, quiosque com jardim, garagem para até 4 carros.",
-      "url": {
-        "videoLink": "https://www.youtube.com/embed/uAIuJpjkwEg?si=sODzE93htuZ6w6Fz"
-      },
-      "images": {
-        "1": "/ei78/c01.jpg",
-        "2": "/ei78/c02.jpg",
-        "3": "/ei78/c03.jpg",
-        "4": "/ei78/c04.jpg",
-        "5": "/ei78/c05.jpg",
-        "6": "/ei78/c06.jpg",
-        "7": "/ei78/c07.jpg",
-        "8": "/ei78/c08.jpg",
-        "9": "/ei78/c09.jpg",
-        "10": "/ei78/c10.jpg"
-      },
-      "blurs": {
-        "1": "/blur/ei78/1-blur_ei78-min.jpg"
       }
     },
     {
