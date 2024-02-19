@@ -373,39 +373,6 @@
       }
     },
     {
-      "id": 36,
-      "codigo": "ei36",
-      "tipo": "Casa",
-      "categoria": "venda",
-      "bairro": "Centro",
-      "endereco": "Av. Otávio Mangabeira",
-      "numero": "1257",
-      "terreno": "611,22",
-      "construcao": "185,90",
-      "dormitorios": "3",
-      "vagas": "2",
-      "valor": "380.000,00",
-      "descricao": "2 varandas, 01 sala, 03 suítes, 01 cozinha, 01 área de serviço, 01 banheiro social, 01 dependência de empregada com banheiro, quintal, garagem.",
-      "url": {
-        "videoLink": "https://www.youtube.com/embed/aWk8sUA3y_I?si=H29nH0dz6otcp-6w"
-      },
-      "images": {
-        "1": "/ei36/c01.jpg",
-        "2": "/ei36/c02.jpg",
-        "3": "/ei36/c03.jpg",
-        "4": "/ei36/c04.jpg",
-        "5": "/ei36/c05.jpg",
-        "6": "/ei36/c06.jpg",
-        "7": "/ei36/c07.jpg",
-        "8": "/ei36/c08.jpg",
-        "9": "/ei36/c09.jpg",
-        "10": "/ei36/c10.jpg"
-      },
-      "blurs": {
-        "1": "/blur/ei36/1-blur_ei36-min.jpg"
-      }
-    },
-    {
       "id": 47,
       "codigo": "ei47",
       "tipo": "Casa",
